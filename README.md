@@ -1,5 +1,9 @@
 # My conference presentations
 
+## SFSCON 2025
+[Video](https://www.sfscon.it/talks/from-iot-to-mobile-oniros-technical-journey-toward-digital-independence/)
+[Slides](SFSCON2025_From_IoT_to_Mobile_Oniro_Technical_Journey_Toward_Digital_Independence.pdf)
+
 ## Volla community days 2025
 [Video](https://www.youtube.com/live/keFKC4Csib0?si=c0VBHzcRiL6DMKIp&t=4942)
 [Slides](Volla_Community_Days_2025_Francesco_Pham.pdf)
