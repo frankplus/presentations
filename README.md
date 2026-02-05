@@ -1,5 +1,9 @@
 # My conference presentations
 
+## FOSDEM 2026
+[Video](https://fosdem.org/2026/schedule/event/SYBWKY-bringing_openharmony_to_phones_lessons_from_the_oniro_porting_effort/)
+[Slides](FOSDEM_2026_Bringing_OpenHarmony_to_Phones.pdf)
+
 ## SFSCON 2025
 [Video](https://www.sfscon.it/talks/from-iot-to-mobile-oniros-technical-journey-toward-digital-independence/)
 [Slides](SFSCON2025_From_IoT_to_Mobile_Oniro_Technical_Journey_Toward_Digital_Independence.pdf)
