@@ -18,3 +18,6 @@
 ## FOSDEM 2025
 [Video](https://fosdem.org/2025/schedule/event/fosdem-2025-4684-bringing-oniro-to-mobile-challenges-in-hardware-enablement/)
 [Slides](Fosdem_2025_Francesco_Pham.pdf)
+
+## OpenHarmony Tech Forum (GOSIM26)
+[Slides](Lowering_Every_Barrier_Francesco_Pham_GOSIM26.pdf)
