@@ -1,5 +1,9 @@
 # My conference presentations
 
+## Volla Community Days 2026
+[Video](https://www.youtube.com/live/bQt_rtN_ZK0?si=WNNy5DBEk7orAnil&t=15505)
+[Slides](Volla_Community_Days_2026_Francesco_Pham_Oniro_on_Volla.pdf)
+
 ## FOSDEM 2026
 [Video](https://fosdem.org/2026/schedule/event/SYBWKY-bringing_openharmony_to_phones_lessons_from_the_oniro_porting_effort/)
 [Slides](FOSDEM_2026_Bringing_OpenHarmony_to_Phones.pdf)
