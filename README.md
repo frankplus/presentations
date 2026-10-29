@@ -1,8 +1,14 @@
 # My conference presentations
 
+## OpenHarmony Technical Conference Prague 2026
+[Slides](OpenHarmony_Technical_Conference_Prague_2026_Bringing_Oniro_to_a_European_Developer_Phone.pdf)
+
 ## Volla Community Days 2026
 [Video](https://www.youtube.com/live/bQt_rtN_ZK0?si=WNNy5DBEk7orAnil&t=15505)
 [Slides](Volla_Community_Days_2026_Francesco_Pham_Oniro_on_Volla.pdf)
+
+## GOSIM Paris 2026 (OpenHarmony Tech Forum)
+[Slides](Lowering_Every_Barrier_Francesco_Pham_GOSIM26.pdf)
 
 ## FOSDEM 2026
 [Video](https://fosdem.org/2026/schedule/event/SYBWKY-bringing_openharmony_to_phones_lessons_from_the_oniro_porting_effort/)
@@ -22,6 +28,3 @@
 ## FOSDEM 2025
 [Video](https://fosdem.org/2025/schedule/event/fosdem-2025-4684-bringing-oniro-to-mobile-challenges-in-hardware-enablement/)
 [Slides](Fosdem_2025_Francesco_Pham.pdf)
-
-## OpenHarmony Tech Forum (GOSIM26)
-[Slides](Lowering_Every_Barrier_Francesco_Pham_GOSIM26.pdf)
