@@ -1,6 +1,7 @@
 # My conference presentations
 
 ## OpenHarmony Technical Conference Prague 2026
+[Video](https://www.youtube.com/watch?v=459skWgbe54)
 [Slides](OpenHarmony_Technical_Conference_Prague_2026_Bringing_Oniro_to_a_European_Developer_Phone.pdf)
 
 ## Volla Community Days 2026
